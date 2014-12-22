@@ -1,4 +1,4 @@
-SGU
+Codes of Online Judges Problems
 ===
 
-accepted codes of acm.sgu.ru problems
+Here I will put my codes for online judges problems. Like SGU, USACO,...
